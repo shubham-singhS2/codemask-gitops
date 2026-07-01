@@ -20,7 +20,7 @@ spec:
       containers:
         - name: codemask
 
-          image: shubhamsinghs2/codemask:0724e3c
+          image: shubhamsinghs2/codemask:10f247d
 
           imagePullPolicy: Always
 
